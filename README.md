@@ -15,4 +15,4 @@ The KDD Impact Program aims to support projects that promote data science, incre
 
 [KDD IMPACT PROGRAM](https://www.kdd.org/News/view/announcing-the-kdd-impact-program-recipients-for-2018)
 
-[MS DATA SCIENCE](https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx)
+[MS DATA SCIENCE AT DEPAUL](https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx)
