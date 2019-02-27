@@ -12,5 +12,7 @@ The DePaul Data Science Summer Academy was made possible by a grant from the KDD
 The KDD Impact Program aims to support projects that promote data science, increase its impact on society, and help the data science community.  The DePaul proposal is one of the seven outstanding proposals that received funding. There were 75 submissions in total from 20 countries.
 
 [SIGKDD](https://www.kdd.org/)
+
 [KDD IMPACT PROGRAM](https://www.kdd.org/News/view/announcing-the-kdd-impact-program-recipients-for-2018)
+
 [MS DATA SCIENCE](https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx)
