@@ -7,7 +7,7 @@ Participants engage in hands-on activities taught in a computer lab setting and 
 The Academy provides students with valuable educational experience and an advantage in today’s competitive world of college admission.
 
 Sponsor:
-The DePaul Data Science Summer Academy was made possible by a grant from the KDD Impact Program of the SIGKDD.
+The DePaul __Data Science Summer Academy__ was made possible by a grant from the __KDD Impact Program of the SIGKDD__.
 
 The KDD Impact Program aims to support projects that promote data science, increase its impact on society, and help the data science community.  The DePaul proposal is one of the seven outstanding proposals that received funding. There were 75 submissions in total from 20 countries.
 
