@@ -17,6 +17,6 @@ The KDD Impact Program aims to support projects that promote data science, incre
 
 [MS DATA SCIENCE AT DEPAUL](https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx)
 
-Faculty involved: [Bamshad Mobasher](https://www.cdm.depaul.edu/about/Pages/People/facultyinfo.aspx?fid=653), [Lucia Dettori](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=203), [Daniela Raicu](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=347), [Raffaella Settimi](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=269)
+Faculty involved: [Bamshad Mobasher](https://www.cdm.depaul.edu/about/Pages/People/facultyinfo.aspx?fid=653), [Lucia Dettori](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=203), [Daniela Raicu](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=347), [Raffaella Settimi](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=269), [Eli Brown](https://www.cdm.depaul.edu/Faculty-and-Staff/Pages/faculty-info.aspx?fid=1311)
 
 Students involved: [Nasim Sonboli](https://www.colorado.edu/cmci/people/graduate-students/nasim-sonboli), [Monica Stettler](https://www.linkedin.com/in/monicastettlerbrozny/)
