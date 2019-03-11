@@ -1,4 +1,4 @@
-# [DATA SCIENCE SUMMER ACADEMY](https://ddssacademy.wordpress.com/)
+# [DATA SCIENCE SUMMER ACADEMY - DePaul University](https://ddssacademy.wordpress.com/)
 
 The Data Science Summer Academy is an intensive week-long program to introduce high school students to the fast-growing field of data science.  Students explore ways to analyze data, and learn how to create innovative solutions using digital information to make a positive impact in our society. The program was held at DePaul University’s Loop campus from 9:30 a.m. to 3:30 p.m. on June 25th-29th, 2018.
 
